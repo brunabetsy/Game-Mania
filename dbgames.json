@@ -1,0 +1,32 @@
+{
+  "produtos": [
+    {
+      "id": 1,
+      "produto": "PC Gamer Completo",
+      "descricao": "Intel Core i5 6 Geração, 16GB RAM, SSD 120GB + HD 1TB",
+      "foto": "PC GAMER.PNG",
+      "preco": 2804
+    },
+    {
+      "id": 2,
+      "produto": "Controle Sem Fio Xbox",
+      "descricao": "Edição Especial Stellar Shift - Punho texturizado nos gatilhos, botões e no revestimento traseiro",
+      "foto": "CONTROLES.PNG",
+      "preco": 277.65
+    },
+    {
+      "id": 3,
+      "produto": "FIFA 23",
+      "descricao": "Jogo de Futebol PS4 - FIFA 23",
+      "foto": "JOGOS.PNG",
+      "preco": 219.1
+    },
+    {
+      "id": 4,
+      "produto": "Life Is Strange",
+      "descricao": "True Colors-Padrão-Xbox Series X",
+      "foto": "LIFE IS STRANGE.PNG",
+      "preco": 199.99
+    }
+  ]
+}
